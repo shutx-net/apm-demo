@@ -1,0 +1,9 @@
+name: shutx-skills
+version: 1.0.0
+description: apm demo for shutx
+author: shutx
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}
